@@ -14,3 +14,5 @@ notebook
 
 # Evaluation
 scikit-learn
+
+seaborn>=0.11
