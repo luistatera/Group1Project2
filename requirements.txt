@@ -1,0 +1,16 @@
+# Core ML & Vision
+torch>=2.0
+torchvision>=0.15
+torchaudio
+
+# Visualization
+matplotlib>=3.0
+
+# Image handling
+Pillow>=9.0
+
+# Notebooks
+notebook
+
+# Evaluation
+scikit-learn
