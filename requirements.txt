@@ -1,6 +1,6 @@
 # Core ML & Vision
-torch>=2.0
-torchvision>=0.15
+torch
+torchvision
 torchaudio
 
 # Visualization
