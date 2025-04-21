@@ -1,0 +1,2 @@
+optimizer,lr,batch_size,train_loss,val_loss,test_acc,test_prec,test_rec,test_f1,model_path,training_time_sec,cpu_usage_percent,memory_usage_mb,gpu_mem_allocated_mb,gpu_mem_reserved_mb
+Adam,0.0005,64,0.6617409532909194,0.873304687200054,0.719704684317719,0.7278042903801718,0.719704684317719,0.7153279162984348,../../models/best_Adam_lr0.0005_bs64.pth,2500.3520979881287,28.4,16627.984375,299.24267578125,1062.0

@@ -1,0 +1,2 @@
+optimizer,lr,batch_size,train_loss,val_loss,test_acc,test_prec,test_rec,test_f1,model_path,training_time_sec,cpu_usage_percent,memory_usage_mb,gpu_mem_allocated_mb,gpu_mem_reserved_mb
+SGD,0.01,32,0.5829574596559398,1.0082414731746767,0.7115580448065173,0.7125000147391838,0.7115580448065173,0.7062899029040035,../../models/best_SGD_lr0.01_bs32.pth,2641.62225151062,41.6,16500.7578125,125.04296875,1062.0
